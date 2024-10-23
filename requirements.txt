@@ -1,0 +1,9 @@
+psycopg2-binary~=2.9.9
+SQLAlchemy~=2.0.35
+python-dotenv~=1.0.1
+aiogram~=3.13.1
+uvicorn~=0.31.0
+itsdangerous~=2.2.0
+starlette~=0.39.2
+bcrypt~=4.2.0
+starlette-admin~=0.14.1
